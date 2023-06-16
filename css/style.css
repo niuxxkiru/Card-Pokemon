@@ -48,8 +48,10 @@ main {
   border-radius: 50%;
   background-color: var(--color3);
   box-shadow: 0px -10px 20px var(--color2);
+  margin-top: -78px;
 }
 .card-body-container img {
+  width: 9.3em;
   padding: 1.2em;
 }
 .card-body-title {
@@ -67,11 +69,6 @@ main {
   text-align: center;
   margin: 1.2em;
 }
-
-.card-body-container img {
-  width: 9.3em;
-}
-
 .card-footer-power img {
   width: 2.2em;
 }/*# sourceMappingURL=style.css.map */
